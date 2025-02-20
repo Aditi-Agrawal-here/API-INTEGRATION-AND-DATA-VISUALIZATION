@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 API_KEY = "9774e995a51c0dd3ea11e78ca8515fe3"
-CITIES = ["Mumbai", "New York", "Tokyo", "London"]
+CITIES = ["Mumbai", "Pune", "Tokyo", "London"]
 
 weather_data = []
 
