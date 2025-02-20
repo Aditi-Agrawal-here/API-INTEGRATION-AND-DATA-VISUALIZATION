@@ -31,4 +31,4 @@ df = pd.DataFrame(weather_data, columns=["City", "Temperature (°C)", "Humidity 
 
 df.to_csv("weather_data.csv", index=False)
 
-print("\n✅ Weather data saved to 'weather_data.csv'! 🎉")
+print(" Weather data saved to 'weather_data.csv'!")
