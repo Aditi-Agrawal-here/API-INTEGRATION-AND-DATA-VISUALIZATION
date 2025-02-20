@@ -74,3 +74,6 @@ Integrate with Tkinter or Flask for a GUI/web-based interface.
 Conclusion :
 
 This project was a hands-on learning experience in API integration, data processing, and visualization. By working with OpenWeatherMap, I gained a deeper understanding of how to work with real-world data and present it in a meaningful way.
+
+#OUTPUT :
+weather_data.csv](https://github.com/user-attachments/files/18893261/weather_data.csv)
