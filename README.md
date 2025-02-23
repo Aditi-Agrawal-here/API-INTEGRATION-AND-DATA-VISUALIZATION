@@ -43,8 +43,8 @@ Technologies Used:
 
 Installation and Usage:
 1) Clone the repository
-git clone https://github.com/Aditi-Agrawal-here/API-Weather-Visualization.git
-cd API-Weather-Visualization
+git clone https://github.com/Aditi-Agrawal-here/API-INTEGRATION-AND-DATA-VISUALIZATION
+cd API-INTEGRATION-AND-DATA-VISUALIZATION
 2) Install the required libraries
 pip install matplotlib seaborn pandas
 3) Run the script
