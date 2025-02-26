@@ -57,12 +57,16 @@ Graphs visualizing temperature, humidity, and wind speed.
 Output Files:
 
 weather_data.csv – Stores the fetched weather data in tabular format. 
+
 [weather_data.csv](https://github.com/user-attachments/files/18931215/weather_data.csv)
 
 Generated Graphs 
-1) temperature  ![Image](https://github.com/user-attachments/assets/fd31e2bf-fb4d-49c0-9750-6bae1c80d966)
-2) humidity  ![Image](https://github.com/user-attachments/assets/4d982d16-b2ed-4c60-8db0-5ae111194dfc)
-3) wind speed  ![Image](https://github.com/user-attachments/assets/7497c183-c300-4a90-bf93-7e896f0babde)
+1) Temperature
+    ![Image](https://github.com/user-attachments/assets/fd31e2bf-fb4d-49c0-9750-6bae1c80d966)
+3) Humidity
+    ![Image](https://github.com/user-attachments/assets/4d982d16-b2ed-4c60-8db0-5ae111194dfc)
+4) Wind speed
+    ![Image](https://github.com/user-attachments/assets/7497c183-c300-4a90-bf93-7e896f0babde)
 
 
 Challenges Faced and Learnings:
