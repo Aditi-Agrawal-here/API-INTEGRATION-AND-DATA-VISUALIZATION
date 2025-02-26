@@ -16,6 +16,7 @@
 ## API Integration and Data Visualization – OpenWeatherMap
 
 About This Project:
+
 This project focuses on fetching real-time weather data from the OpenWeatherMap API and visualizing it using Python, Pandas, Matplotlib, and Seaborn. The script retrieves weather details such as temperature, humidity, and wind speed for multiple cities, processes the data, and generates bar charts for better insights.
 
 
@@ -43,15 +44,15 @@ Technologies Used:
 
 Installation and Usage:
 1) Clone the repository
-git clone https://github.com/Aditi-Agrawal-here/API-INTEGRATION-AND-DATA-VISUALIZATION
-cd API-INTEGRATION-AND-DATA-VISUALIZATION
+   git clone https://github.com/Aditi-Agrawal-here/API-INTEGRATION-AND-DATA-VISUALIZATION
+   cd API-INTEGRATION-AND-DATA-VISUALIZATION
 2) Install the required libraries
-pip install matplotlib seaborn pandas
+   pip install matplotlib seaborn pandas
 3) Run the script
-python openweathermap.py
+   python openweathermap.py
 4) Check the output
-weather_data.csv (stores the fetched weather data).
-Graphs visualizing temperature, humidity, and wind speed.
+   weather_data.csv (stores the fetched weather data).
+   Graphs visualizing temperature, humidity, and wind speed.
 
 
 Output Files:
@@ -77,5 +78,6 @@ Challenges Faced and Learnings:
 
 
 Conclusion:
+
 This project provided a hands-on experience with API integration, data processing, and data visualization. Working with OpenWeatherMap API allowed me to understand real-world data handling and how to present insights visually in an effective way.
 
