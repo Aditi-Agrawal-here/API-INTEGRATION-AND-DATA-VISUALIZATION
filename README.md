@@ -76,7 +76,6 @@ Challenges Faced and Learnings:
 3) Error Handling – Managing API failures and invalid city names.
 4) Library Dependencies – Ensuring proper installation of required libraries.
 
-
 Conclusion:
 
 This project provided a hands-on experience with API integration, data processing, and data visualization. Working with OpenWeatherMap API allowed me to understand real-world data handling and how to present insights visually in an effective way.
